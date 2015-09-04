@@ -1,2 +1,2 @@
-# boris_bikes_demo
-A PP and TDD demo
+# Boris Bikes Demo
+A PairPrgramming and TDD demo with Chris at Makers Sweden - 2015-09-04
